@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "b61931204dd1c13460229f7d",
+  "owner": "pcsccjxqp",
+  "repo": "page-ffa9edd9db94f2efc1166b4c",
+  "title": "机场榜单",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ffa9edd9db94f2efc1166b4c",
+      "a": "机场榜单",
+      "b": "",
+      "entity": "机场榜单",
+      "brand": "机场榜单",
+      "separator": "",
+      "path": "index.html",
+      "hash": "74b01e70184b2922dbc89e337ac29150fe9cc34b472fef8afb38633d76f9bea9",
+      "content": {
+        "keyword1": "机场榜单",
+        "keyword2": "",
+        "primary_entity": "机场榜单",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "机场榜单提供优质VPN加速器、机场订阅与客户端下载服务。多种流量套餐供您选择，官网立即体验。",
+          "AI_DESCRIPTION": "机场榜单提供优质VPN加速器、机场订阅与客户端下载服务。多种流量套餐供您选择，官网立即体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --beige: #f5f0e8;\n            --green: #2d5a3d;\n            --text: #333;\n        }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            margin: 0;\n            padding: 0;\n            background-color: var(--beige);\n            color: var(--text);\n            line-height: 1.6;\n        }\n        main {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n        h1 {\n            color: var(--green);\n            font-size: 2.5rem;\n            text-align: center;\n            margin-bottom: 20px;\n        }\n        h2 {\n            color: var(--green);\n            font-size: 1.8rem;\n            margin: 40px 0 20px;\n        }\n        h3 {\n            color: var(--green);\n            font-size: 1.4rem;\n        }\n        section {\n            margin-bottom: 40px;\n        }\n        .intro, .scenarios, .ops {\n            background: white;\n            padding: 30px;\n            border-radius: 8px;\n            box-shadow: 0 2px 8px rgba(0,0,0,0.05);\n        }\n        .comparison {\n            display: grid;\n            grid-template-columns: 1fr 1fr 1fr;\n            gap: 20px;\n        }\n        .plan-card {\n            background: white;\n            padding: 20px;\n            border-radius: 8px;\n            border: 2px solid var(--green);\n            text-align: center;\n            box-shadow: 0 4px 12px rgba(0,0,0,0.1);\n        }\n        .plan-card.featured {\n            border-color: #e67e22;\n        }\n        .price {\n            font-size: 1.5rem;\n            color: var(--green);\n            margin: 10px 0;\n        }\n        .annual {\n            color: #666;\n            font-size: 0.9rem;\n        }\n        table {\n            width: 100%;\n            border-collapse: collapse;\n            margin: 20px 0;\n        }\n        th, td {\n            padding: 12px;\n            border: 1px solid #ddd;\n            text-align: left;\n        }\n        th {\n            background: var(--green);\n            color: white;\n        }\n        details {\n            background: white;\n            margin: 10px 0;\n            border-radius: 6px;\n            overflow: hidden;\n        }\n        summary {\n            padding: 15px;\n            background: var(--green);\n            color: white;\n            cursor: pointer;\n            font-weight: bold;\n        }\n        summary:hover {\n            background: #1e4a2f;\n        }\n        .answer {\n            padding: 15px;\n            background: #f8f8f8;\n        }\n        footer {\n            background: #2d5a3d;\n            color: white;\n            padding: 30px;\n            text-align: center;\n        }\n        .links {\n            margin-top: 20px;\n        }\n        a {\n            color: #2d5a3d;\n            text-decoration: none;\n        }\n        a:hover {\n            text-decoration: underline;\n        }\n        @media (max-width: 768px) {\n            .comparison {\n                grid-template-columns: 1fr;\n            }\n        }\n    </style>\n\n\n    <main>\n        <h1>机场榜单</h1>\n        <section class=\"intro\">\n            <h2>品牌简介</h2>\n            <p>机场榜单是一款专注于VPN加速和机场订阅的优质服务提供商。我们为您提供安全可靠的网络加速解决方案，帮助用户畅享全球互联网资源。无论您是追求流畅游戏体验，还是需要解锁国际流媒体内容，机场榜单都能满足您的需求。</p>\n        </section>\n        <section class=\"scenarios\">\n            <h2>使用场景</h2>\n            <h3>个人用户</h3>\n            <p>通过机场订阅和客户端下载，享受高清视频流畅播放、在线游戏低延迟加速。</p>\n            <h3>企业用户</h3>\n            <p>支持20台设备同时在线的团队版套餐，为公司内网提供安全稳定的连接。</p>\n            <h3>海外用户</h3>\n            <p>解锁Netflix、YouTube、Spotify等平台的内容限制。</p>\n        </section>\n        <section class=\"ops\">\n            <h2>操作说明</h2>\n            <ol>\n                <li>访问官网注册账号，选择合适的套餐。</li>\n                <li>完成支付后获取订阅链接和客户端下载。</li>\n                <li>下载客户端并导入订阅信息。</li>\n                <li>选择节点连接，享受加速服务。</li>\n            </ol>\n        </section>\n        <section>\n            <h2>套餐对比</h2>\n            <p class=\"comparison-intro\">根据您的需求选择最适合的套餐：</p>\n            <div class=\"comparison\">\n                <div class=\"plan-card\">\n                    <h3>基础版</h3>\n                    <div class=\"price\">¥15/月</div>\n                    <div class=\"annual\">按年付仅需 ¥150/年</div>\n                    <ul>\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                </div>\n                <div class=\"plan-card featured\">\n                    <h3>旗舰版</h3>\n                    <div class=\"price\">¥35/月</div>\n                    <div class=\"annual\">按年付仅需 ¥350/年</div>\n                    <ul>\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                </div>\n                <div class=\"plan-card\">\n                    <h3>团队版</h3>\n                    <div class=\"price\">¥85/月</div>\n                    <div class=\"annual\">按年付仅需 ¥850/年</div>\n                    <ul>\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                </div>\n            </div>\n        </section>\n        <section class=\"faq\">\n            <h2>常见问题 FAQ</h2>\n            <details>\n                <summary>什么是机场榜单？</summary>\n                <div class=\"answer\">机场榜单是一个提供VPN加速器、机场订阅和客户端下载的平台，帮助用户实现网络加速和内容解锁。</div>\n            </details>\n            <details>\n                <summary>基础版套餐的主要特点是什么？</summary>\n                <div class=\"answer\">基础版提供每月100GB极速流量，支持3台设备在线，适合个人日常使用。</div>\n            </details>\n            <details>\n                <summary>旗舰版和团队版有何区别？</summary>\n                <div class=\"answer\">旗舰版流量300GB，支持5台设备，IPLC游戏加速；团队版流量1000GB，支持20台设备，VIP专属节点和企业服务。</div>\n            </details>\n            <details>\n                <summary>如何获取客户端下载？</summary>\n                <div class=\"answer\">在官网注册后，选择套餐即可下载客户端，或通过订阅链接自动配置。</div>\n            </details>\n            <details>\n                <summary>支持哪些平台和设备？</summary>\n                <div class=\"answer\">客户端支持Windows、macOS、Android、iOS等主流平台，可在多设备上使用。</div>\n            </details>\n            <details>\n                <summary>节点质量如何？</summary>\n                <div class=\"answer\">所有线路经过优化，普通线路支持基础需求，旗舰版提供专线优化。</div>\n            </details>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n    <footer>\n        <p>© 2024 机场榜单 版权所有</p>\n        <div class=\"links\">\n            <a href=\"#\">隐私政策</a> | <a href=\"#\">用户协议</a> | <a href=\"#\">联系我们</a>\n        </div>\n        <p>友情链接：<a href=\"#\">机场推荐</a> | <a href=\"#\">VPN教程</a></p>\n        <p>更多信息：<a href=\"#\">网站地图</a></p>\n    </footer>\n\n",
+          "hash": "f2c1d5241228e13d085b7f6700baab80ce1bb9dfcb89920872f0b03f1f078ace",
+          "seo": {
+            "title": "机场榜单 - 机场VPN加速器 客户端下载 官网",
+            "keywords": "机场榜单, 机场VPN, VPN加速, 机场订阅, 客户端下载",
+            "description": "机场榜单提供优质VPN加速器、机场订阅与客户端下载服务。多种流量套餐供您选择，官网立即体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "uhrsifv.cn",
+    "host": "p-ee5a828570.uhrsifv.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "a156d3a92e61324bb013cf66f68e627952b8a0c999e64f38eeb8249fc8f9da9b",
+    "sitemap.xml": "0c931b2d7fea3a38e0046cca0a9ce414811b577413009cf66d50d1b1018a6fa9",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f7243a21f7ae8e6ce27a7985eea04be59124c62c1336b2f42ceded9680d9b93d",
+    "robots.txt": "fe9c566968d632fb37938cf113e52ab70c00e364375807baeb9acb2a61076d12",
+    "7780dcdf533ff78a3cf021251cfca8a1.txt": "2492d0a0f76fae719e976907e6539b7696dffd5dc7fbaac567c5b206856ef8c1"
+  },
+  "revision": "1d23d618b8e160fec49ff9c6258bcee4964d5fe96f066bd758aeca3f1327842d"
+}
